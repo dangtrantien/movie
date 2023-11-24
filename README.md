@@ -6,7 +6,7 @@ This project was deploy here: [https://movie-dangtrantien.vercel.app](https://mo
 
 ### • Description:
 
-A movie watching website helps user find information about the movie they want to see. It provides features such as poster, release date, information about the movie's content and trailer of all the old and new movies.
+A movie watching website helps users find information about the movie they want to see. It provides features such as poster, release date, information about the movie's content and trailer of all the old and new movies.
 
 ### • Tech stacks:
 
