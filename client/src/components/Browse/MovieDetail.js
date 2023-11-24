@@ -18,7 +18,7 @@ const MovieDetail = (props) => {
 
   useEffect(() => {
     const requestAPI =
-      'https://movie-server-dangtrantien.vercel.app/api/movies/video?token=8qlOkxz4wq';
+      'https://movie-ten-pink.vercel.app/api/movies/video?token=8qlOkxz4wq';
 
     setMovieDetail({
       id,

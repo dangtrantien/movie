@@ -2,7 +2,7 @@
 
 ### • Deploy:
 
-This project was deploy here: []()
+This project was deploy here: [https://movie-dangtrantien.vercel.app](https://movie-dangtrantien.vercel.app)
 
 ### • Description:
 
